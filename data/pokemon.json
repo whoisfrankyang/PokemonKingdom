@@ -1,0 +1,356 @@
+{
+  "pokemons": [
+    {
+      "name": "Minun",
+      "hp": 60,
+      "elem": "Electric",
+      "skills": [
+        "Nuzzle",
+        "Thunder Wave",
+        "Growl",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Pachirisu",
+      "hp": 60,
+      "elem": "Electric",
+      "skills": [
+        "Growl",
+        "Spark",
+        "Thunder Shock",
+        "Endure"
+      ]
+    },
+    {
+      "name": "Pichu",
+      "hp": 20,
+      "elem": "Electric",
+      "skills": [
+        "Thunder Shock",
+        "Nuzzle",
+        "Tail Whip",
+        "Play Nice"
+      ]
+    },
+    {
+      "name": "Pikachu",
+      "hp": 35,
+      "elem": "Electric",
+      "skills": [
+        "Thunder Shock",
+        "Nuzzle",
+        "Play Nice",
+        "Electro Ball"
+      ]
+    },
+    {
+      "name": "Plusle",
+      "hp": 60,
+      "elem": "Electric",
+      "skills": [
+        "Nuzzle",
+        "Thunder Wave",
+        "Growl",
+        "Spark"
+      ]
+    },
+    {
+      "name": "Charmander",
+      "hp": 39,
+      "elem": "Fire",
+      "skills": [
+        "Scratch",
+        "Growl",
+        "Fire Fang",
+        "Ember"
+      ]
+    },
+    {
+      "name": "Cyndaquil",
+      "hp": 39,
+      "elem": "Fire",
+      "skills": [
+        "Ember",
+        "Flame Wheel",
+        "Quick Attack",
+        "Tackle"
+      ]
+    },
+    {
+      "name": "Fennekin",
+      "hp": 40,
+      "elem": "Fire",
+      "skills": [
+        "Scratch",
+        "Tail Whip",
+        "Ember",
+        "Flame Charge"
+      ]
+    },
+    {
+      "name": "Flareon",
+      "hp": 65,
+      "elem": "Fire",
+      "skills": [
+        "Tackle",
+        "Growl",
+        "Ember",
+        "Fire Fang"
+      ]
+    },
+    {
+      "name": "Ponyta",
+      "hp": 50,
+      "elem": "Fire",
+      "skills": [
+        "Tackle",
+        "Tail Whip",
+        "Ember",
+        "Flame Wheel"
+      ]
+    },
+    {
+      "name": "Torchic",
+      "hp": 45,
+      "elem": "Fire",
+      "skills": [
+        "Scratch",
+        "Ember",
+        "Flame Charge",
+        "Growl"
+      ]
+    },
+    {
+      "name": "Pidgey",
+      "hp": 40,
+      "elem": "Flying",
+      "skills": [
+        "Tackle",
+        "Quick Attack",
+        "Wing Attack",
+        "Gust"
+      ]
+    },
+    {
+      "name": "Tornadus",
+      "hp": 79,
+      "elem": "Flying",
+      "skills": [
+        "Gust",
+        "Leer",
+        "Swagger",
+        "Air Cutter"
+      ]
+    },
+    {
+      "name": "Hoothoot",
+      "hp": 60,
+      "elem": "Flying",
+      "skills": [
+        "Peck",
+        "Growl",
+        "Tackle",
+        "Air Slash"
+      ]
+    },
+    {
+      "name": "Cursola",
+      "hp": 60,
+      "elem": "Ghost",
+      "skills": [
+        "Tackle",
+        "Perish Song",
+        "Astonish",
+        "Curse"
+      ]
+    },
+    {
+      "name": "Duskull",
+      "hp": 20,
+      "elem": "Ghost",
+      "skills": [
+        "Astonish",
+        "Leer",
+        "Shadow Sneak",
+        "Night Shade"
+      ]
+    },
+    {
+      "name": "Shuppet",
+      "hp": 44,
+      "elem": "Ghost",
+      "skills": [
+        "Astonish",
+        "Screech",
+        "Night Shade",
+        "Shadow Sneak"
+      ]
+    },
+    {
+      "name": "Bellossom",
+      "hp": 75,
+      "elem": "Grass",
+      "skills": [
+        "Petal Blizzard",
+        "Mega Drain",
+        "Growth",
+        "Petal Dance"
+      ]
+    },
+    {
+      "name": "Bulbasaur",
+      "hp": 45,
+      "elem": "Grass",
+      "skills": [
+        "Tackle",
+        "Growth",
+        "Vine Whip",
+        "Seed Bomb"
+      ]
+    },
+    {
+      "name": "Grookey",
+      "hp": 50,
+      "elem": "Grass",
+      "skills": [
+        "Scratch",
+        "Razor Leaf",
+        "Growl",
+        "Tackle"
+      ]
+    },
+    {
+      "name": "Snivy",
+      "hp": 45,
+      "elem": "Grass",
+      "skills": [
+        "Tackle",
+        "Leer",
+        "Vine Whip",
+        "Mega Drain"
+      ]
+    },
+    {
+      "name": "Turtwig",
+      "hp": 55,
+      "elem": "Grass",
+      "skills": [
+        "Tackle",
+        "Absorb",
+        "Razor Leaf",
+        "Mega Drain"
+      ]
+    },
+    {
+      "name": "Ekans",
+      "hp": 35,
+      "elem": "Poison",
+      "skills": [
+        "Wrap",
+        "Leer",
+        "Poison Sting",
+        "Acid"
+      ]
+    },
+    {
+      "name": "Gulpin",
+      "hp": 70,
+      "elem": "Poison",
+      "skills": [
+        "Encore",
+        "Yawn",
+        "Sludge",
+        "Acid Spray"
+      ]
+    },
+    {
+      "name": "Koffing",
+      "hp": 40,
+      "elem": "Poison",
+      "skills": [
+        "Tackle",
+        "Poison Gas",
+        "Sludge",
+        "Toxic"
+      ]
+    },
+    {
+      "name": "Weedle",
+      "hp": 40,
+      "elem": "Poison",
+      "skills": [
+        "Poison Sting",
+        "Yawn",
+        "Wrap",
+        "Toxic"
+      ]
+    },
+    {
+      "name": "Goldeen",
+      "hp": 45,
+      "elem": "Water",
+      "skills": [
+        "Tail Whip",
+        "Water Pulse",
+        "Aqua Ring",
+        "Waterfall"
+      ]
+    },
+    {
+      "name": "Horsea",
+      "hp": 30,
+      "elem": "Water",
+      "skills": [
+        "Leer",
+        "Water Gun",
+        "Bubble Beam",
+        "Hydro Pump"
+      ]
+    },
+    {
+      "name": "Oshawott",
+      "hp": 55,
+      "elem": "Water",
+      "skills": [
+        "Tackle",
+        "Tail Whip",
+        "Water Gun",
+        "Razor Shell"
+      ]
+    },
+    {
+      "name": "Poliwag",
+      "hp": 40,
+      "elem": "Water",
+      "skills": [
+        "Water Gun",
+        "Bubble Beam",
+        "Hydro Pump",
+        "Pound"
+      ]
+    },
+    {
+      "name": "Psyduck",
+      "hp": 50,
+      "elem": "Water",
+      "skills": [
+        "Tail Whip",
+        "Water Pulse",
+        "Water Gun",
+        "Scratch"
+      ]
+    },
+    {
+      "name": "Squirtle",
+      "hp": 44,
+      "elem": "Water",
+      "skills": [
+        "Tackle",
+        "Tail Whip",
+        "Water Gun",
+        "Water Pulse"
+      ]
+    }
+  ]
+}

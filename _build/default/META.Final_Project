@@ -1,0 +1,6 @@
+description = ""
+requires = "str yojson"
+archive(byte) = "final.cma"
+archive(native) = "final.cmxa"
+plugin(byte) = "final.cma"
+plugin(native) = "final.cmxs"

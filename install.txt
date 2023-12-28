@@ -1,0 +1,5 @@
+1. Download the code and unzip the file
+2. Run opam install yojson
+2. Run dune build
+3. Copy paste the dune exec ./bin/main.exe in the terminal to run the project
+4. Follow the instructions provided in the terminal

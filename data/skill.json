@@ -1,0 +1,274 @@
+{
+  "skills": [
+    {
+      "name": "Electro Ball",
+      "damage": 20,
+      "element": "Electric"
+    },
+    {
+      "name": "Nuzzle",
+      "damage": 20,
+      "element": "Electric"
+    },
+    {
+      "name": "Spark",
+      "damage": 25,
+      "element": "Electric"
+    },
+    {
+      "name": "Thunder Wave",
+      "damage": 20,
+      "element": "Electric"
+    },
+    {
+      "name": "Thunder Shock",
+      "damage": 30,
+      "element": "Electric"
+    },
+    {
+      "name": "Ember",
+      "damage": 25,
+      "element": "Fire"
+    },
+    {
+      "name": "Fire Fang",
+      "damage": 15,
+      "element": "Fire"
+    },
+    {
+      "name": "Flame Charge",
+      "damage": 20,
+      "element": "Fire"
+    },
+    {
+      "name": "Flame Wheel",
+      "damage": 25,
+      "element": "Fire"
+    },
+    {
+      "name": "Air Cutter",
+      "damage": 25,
+      "element": "Flying"
+    },
+    {
+      "name": "Air Slash",
+      "damage": 15,
+      "element": "Flying"
+    },
+    {
+      "name": "Gust",
+      "damage": 25,
+      "element": "Flying"
+    },
+    {
+      "name": "Peck",
+      "damage": 35,
+      "element": "Flying"
+    },
+    {
+      "name": "Wing Attack",
+      "damage": 30,
+      "element": "Flying"
+    },
+    {
+      "name": "Astonish",
+      "damage": 15,
+      "element": "Ghost"
+    },
+    {
+      "name": "Curse",
+      "damage": 10,
+      "element": "Ghost"
+    },
+    {
+      "name": "Night Shade",
+      "damage": 15,
+      "element": "Ghost"
+    },
+    {
+      "name": "Shadow Sneak",
+      "damage": 30,
+      "element": "Ghost"
+    },
+    {
+      "name": "Mega Drain",
+      "damage": 15,
+      "element": "Grass"
+    },
+    {
+      "name": "Petal Blizzard",
+      "damage": 15,
+      "element": "Grass"
+    },
+    {
+      "name": "Petal Dance",
+      "damage": 10,
+      "element": "Grass"
+    },
+    {
+      "name": "Razor Leaf",
+      "damage": 25,
+      "element": "Grass"
+    },
+    {
+      "name": "Seed Bomb",
+      "damage": 15,
+      "element": "Grass"
+    },
+    {
+      "name": "Vine Whip",
+      "damage": 25,
+      "element": "Grass"
+    },
+    {
+      "name": "Absorb",
+      "damage": 25,
+      "element": "Normal"
+    },
+    {
+      "name": "Encore",
+      "damage": 5,
+      "element": "Normal"
+    },
+    {
+      "name": "Endure",
+      "damage": 10,
+      "element": "Normal"
+    },
+    {
+      "name": "Growl",
+      "damage": 10,
+      "element": "Normal"
+    },
+    {
+      "name": "Growth",
+      "damage": 20,
+      "element": "Normal"
+    },
+    {
+      "name": "Leer",
+      "damage": 20,
+      "element": "Normal"
+    },
+    {
+      "name": "Perish Song",
+      "damage": 5,
+      "element": "Normal"
+    },
+    {
+      "name": "Play Nice",
+      "damage": 10,
+      "element": "Normal"
+    },
+    {
+      "name": "Pound",
+      "damage": 30,
+      "element": "Normal"
+    },
+    {
+      "name": "Quick Attack",
+      "damage": 20,
+      "element": "Normal"
+    },
+    {
+      "name": "Scratch",
+      "damage": 25,
+      "element": "Normal"
+    },
+    {
+      "name": "Screech",
+      "damage": 30,
+      "element": "Normal"
+    },
+    {
+      "name": "Swagger",
+      "damage": 15,
+      "element": "Normal"
+    },
+    {
+      "name": "Tackle",
+      "damage": 25,
+      "element": "Normal"
+    },
+    {
+      "name": "Tail Whip",
+      "damage": 20,
+      "element": "Normal"
+    },
+    {
+      "name": "Wrap",
+      "damage": 20,
+      "element": "Normal"
+    },
+    {
+      "name": "Yawn",
+      "damage": 10,
+      "element": "Normal"
+    },
+    {
+      "name": "Acid",
+      "damage": 20,
+      "element": "Poison"
+    },
+    {
+      "name": "Acid Spray",
+      "damage": 20,
+      "element": "Poison"
+    },
+    {
+      "name": "Poison Gas",
+      "damage": 30,
+      "element": "Poison"
+    },
+    {
+      "name": "Poison Sting",
+      "damage": 15,
+      "element": "Poison"
+    },
+    {
+      "name": "Sludge",
+      "damage": 20,
+      "element": "Poison"
+    },
+    {
+      "name": "Toxic",
+      "damage": 10,
+      "element": "Poison"
+    },
+    {
+      "name": "Aqua Ring",
+      "damage": 20,
+      "element": "Water"
+    },
+    {
+      "name": "Bubble Beam",
+      "damage": 20,
+      "element": "Water"
+    },
+    {
+      "name": "Hydro Pump",
+      "damage": 10,
+      "element": "Water"
+    },
+    {
+      "name": "Razor Shell",
+      "damage": 10,
+      "element": "Water"
+    },
+    {
+      "name": "Water Gun",
+      "damage": 25,
+      "element": "Water"
+    },
+    {
+      "name": "Water Pulse",
+      "damage": 20,
+      "element": "Water"
+    },
+    {
+      "name": "Waterfall",
+      "damage": 15,
+      "element": "Water"
+    }
+  ]
+}

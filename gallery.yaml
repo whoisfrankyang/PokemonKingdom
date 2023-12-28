@@ -1,0 +1,34 @@
+---
+# Members of your group.
+group:
+  - name: Jenny Chen
+    netid: sc2628
+  - name: Xinyu Ge
+    netid: xg265
+  - name: Frank Yang
+    netid: by93
+  - name: Fiona Zheng
+    netid: fz246
+
+# Your PM.
+pm:
+  name: Nikita Kasumov
+  netid: nk495
+  
+# Set to false if you don't want your gallery entry to be public.
+publish: false
+# Pithy title
+title: "The Kingdom of Poké"
+# OK if this is a Cornell Github link, but public gallery viewers won't be able to see it.
+git-repo: "https://github.coecis.cornell.edu/sc2628/Final_Project"
+# If you have no demo screencast, replace the url string with an empty string ""
+demo-video-url: ""
+# Write a short, attention-grabbing description of your project.
+desc: >
+  This project simulates a Pokemon game. The interface shows the user 
+  what different attacks that the Pokemon could use to defeat their enemies,
+  including the Pokemon's attacks, element, and stats. Users will use their 
+  own keyboard to type different letters to progress along a story plot. If the 
+  user decides attack another Pokemon, the statistics of both Pokemon will be 
+  shown in the terminal. After each battle, the user's Pokemon will receive a different 
+  amount of EXP to increase their statistics and their attacks.

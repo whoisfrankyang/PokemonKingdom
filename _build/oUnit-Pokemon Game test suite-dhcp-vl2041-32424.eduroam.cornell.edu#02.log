@@ -1,0 +1,180 @@
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:1:create_skill with accurate info.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:1:create_skill with accurate info is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:1:create_skill with accurate info.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:2:get_skill for valid skill.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:2:get_skill for valid skill is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:2:get_skill for valid skill.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:4:masterlist include all.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:4:masterlist include all is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:4:masterlist include all.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:6:construct_pokemon hp_curr = hp_max.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:6:construct_pokemon hp_curr = hp_max is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:6:construct_pokemon hp_curr = hp_max.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:8:construct_pokemon failure for negative hp_max.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:8:construct_pokemon failure for negative hp_max is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:8:construct_pokemon failure for negative hp_max.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:10:construct_pokemon failure invalid level.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:10:construct_pokemon failure invalid level is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:10:construct_pokemon failure invalid level.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:12:construct_pokemon failure no skill.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:12:construct_pokemon failure no skill is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:12:construct_pokemon failure no skill.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:14:attack reduces hp by random int if skill no base damage.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:14:attack reduces hp by random int if skill no base damage is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:14:attack reduces hp by random int if skill no base damage.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:16:level_up check hp increase.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:16:level_up check hp increase is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:16:level_up check hp increase.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:18:level_up assert increment of 1.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:18:level_up assert increment of 1 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:18:level_up assert increment of 1.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:20:type_advantage return nonempty.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:20:type_advantage return nonempty is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:20:type_advantage return nonempty.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:22:type_disadvantage return nonempty.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:22:type_disadvantage return nonempty is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:22:type_disadvantage return nonempty.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:24:attack reduced damage for pokemon with disadvantage.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:24:attack reduced damage for pokemon with disadvantage is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:24:attack reduced damage for pokemon with disadvantage.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:26:extended test_skills_creation.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:26:extended test_skills_creation is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:26:extended test_skills_creation.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:28:type _advantage2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:28:type _advantage2 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:28:type _advantage2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:30:type_advantage4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:30:type_advantage4 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:30:type_advantage4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:32: type_advantage6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:32: type_advantage6 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:32: type_advantage6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:34:type_advantage8.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:34:type_advantage8 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:34:type_advantage8.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:36:type_disadvantage2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:36:type_disadvantage2 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:36:type_disadvantage2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:38:type_disadvantage4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:38:type_disadvantage4 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:38:type_disadvantage4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:40:type_disadvantage6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:40:type_disadvantage6 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:40:type_disadvantage6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:42:type_disadvantage8.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:42:type_disadvantage8 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:42:type_disadvantage8.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:44:elem_of_string2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:44:elem_of_string2 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:44:elem_of_string2.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:46:elem_of_string4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:46:elem_of_string4 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:46:elem_of_string4.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:48:elem_of_string6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:48:elem_of_string6 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:48:elem_of_string6.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:50:string_of_elem1.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:50:string_of_elem1 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:50:string_of_elem1.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:52:string_of_elem3.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:52:string_of_elem3 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:52:string_of_elem3.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:54:string_of_elem5.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:54:string_of_elem5 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:54:string_of_elem5.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:56:string_of_elem7.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:56:string_of_elem7 is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:56:string_of_elem7.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:58:1. init: check name.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:58:1. init: check name is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:58:1. init: check name.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:60:3. add_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:60:3. add_pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:60:3. add_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:62:add duplicate pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:62:add duplicate pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:62:add duplicate pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:64: add_remove pair.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:64: add_remove pair is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:64: add_remove pair.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:66:get_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:66:get_pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:66:get_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:68:add_item.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:68:add_item is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:68:add_item.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:70:add_item.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:70:add_item is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:70:add_item.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:72:test_add_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:72:test_add_pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:72:test_add_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:74:test_remove_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:74:test_remove_pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:74:test_remove_pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:76:test_add_remove_items.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:76:test_add_remove_items is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:76:test_add_remove_items.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:78:test_backpack_boundaries when at min.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:78:test_backpack_boundaries when at min is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:78:test_backpack_boundaries when at min.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:80:test_backpack_boundaries that cause overflow.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:80:test_backpack_boundaries that cause overflow is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:80:test_backpack_boundaries that cause overflow.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:82:test_backpack_boundaries negative amount.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:82:test_backpack_boundaries negative amount is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:82:test_backpack_boundaries negative amount.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:84:test_internal_state_changes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:84:test_internal_state_changes is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:84:test_internal_state_changes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:86:test_interaction_with_pokemon_module.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:86:test_interaction_with_pokemon_module is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:86:test_interaction_with_pokemon_module.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:88:heal_all check all pokemon in list healed.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:88:heal_all check all pokemon in list healed is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:88:heal_all check all pokemon in list healed.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:90:construct_plot: empty string list.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:90:construct_plot: empty string list is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:90:construct_plot: empty string list.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:92:get_string: Leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:92:get_string: Leaf is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:92:get_string: Leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:94:make_decision: choosing A.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:94:make_decision: choosing A is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:94:make_decision: choosing A.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:96:make_decision: choosing to Exit.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:96:make_decision: choosing to Exit is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:96:make_decision: choosing to Exit.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:98:output: Leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:98:output: Leaf is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:98:output: Leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:100:view_Pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:100:view_Pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:100:view_Pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:102:construct_plot leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:102:construct_plot leaf is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:102:construct_plot leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:104:construct_plot nodes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:104:construct_plot nodes is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:104:construct_plot nodes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:106:get_string leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:106:get_string leaf is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:106:get_string leaf.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:108:get_string nodes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:108:get_string nodes is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:108:get_string nodes.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:110:search_pokemon for valid pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:110:search_pokemon for valid pokemon is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:110:search_pokemon for valid pokemon.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:112:pokemon_masterlist all are positive.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:112:pokemon_masterlist all are positive is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:112:pokemon_masterlist all are positive.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:114:pokemon_list check new length.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:114:pokemon_list check new length is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:114:pokemon_list check new length.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:116:pokemon_list check psyduck.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:116:pokemon_list check psyduck is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:116:pokemon_list check psyduck.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Start test Pokemon Game test suite:118:generating checking psyduck.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: Test Pokemon Game test suite:118:generating checking psyduck is successful.
+2023-12-05T18:51:25+00:00 dhcp-vl2041-32424.eduroam.cornell.edu#02 I: End test Pokemon Game test suite:118:generating checking psyduck.

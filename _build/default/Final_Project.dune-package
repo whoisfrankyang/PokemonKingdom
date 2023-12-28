@@ -1,0 +1,83 @@
+(lang dune 3.10)
+(name Final_Project)
+(sections (lib .) (libexec .) (doc ../../doc/Final_Project))
+(files
+ (lib
+  (META
+   battle.ml
+   battle.mli
+   character.ml
+   character.mli
+   dune-package
+   final.a
+   final.cma
+   final.cmi
+   final.cmt
+   final.cmx
+   final.cmxa
+   final.ml
+   final__Battle.cmi
+   final__Battle.cmt
+   final__Battle.cmti
+   final__Battle.cmx
+   final__Character.cmi
+   final__Character.cmt
+   final__Character.cmti
+   final__Character.cmx
+   final__Pokemon.cmi
+   final__Pokemon.cmt
+   final__Pokemon.cmti
+   final__Pokemon.cmx
+   final__Story.cmi
+   final__Story.cmt
+   final__Story.cmti
+   final__Story.cmx
+   opam
+   pokemon.ml
+   pokemon.mli
+   story.ml
+   story.mli))
+ (libexec (final.cmxs))
+ (doc (README.md)))
+(library
+ (name Final_Project)
+ (kind normal)
+ (archives (byte final.cma) (native final.cmxa))
+ (plugins (byte final.cma) (native final.cmxs))
+ (native_archives final.a)
+ (requires str yojson)
+ (main_module_name Final)
+ (modes byte native)
+ (modules
+  (wrapped
+   (group
+    (alias
+     (obj_name final)
+     (visibility public)
+     (kind alias)
+     (source (path Final) (impl (path final.ml-gen))))
+    (name Final)
+    (modules
+     (module
+      (obj_name final__Battle)
+      (visibility public)
+      (source (path Battle) (intf (path battle.mli)) (impl (path battle.ml))))
+     (module
+      (obj_name final__Character)
+      (visibility public)
+      (source
+       (path Character)
+       (intf (path character.mli))
+       (impl (path character.ml))))
+     (module
+      (obj_name final__Pokemon)
+      (visibility public)
+      (source
+       (path Pokemon)
+       (intf (path pokemon.mli))
+       (impl (path pokemon.ml))))
+     (module
+      (obj_name final__Story)
+      (visibility public)
+      (source (path Story) (intf (path story.mli)) (impl (path story.ml))))))
+   (wrapped true))))

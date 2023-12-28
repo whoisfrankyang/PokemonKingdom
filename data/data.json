@@ -1,0 +1,56 @@
+{
+  "initial_pokemon": [
+    "Welcome to Pokemon Lab! Pokemon are magical creatures with special powers and unique skills. You will become a trainer for them and they will accompany you on your journey. Now lets begin by getting you started with your very first Pokemon. Would you like to have Pikachu or Squirtle as your first Pokemon?",
+    "Yes!",
+    "Pikachu",
+    "Squirtle",
+    "No, what are the other options?",
+    "Charmander",
+    "Bulbasaur"
+  ],
+  "gift from Dr.Z": [
+    "As you're heading out of the laboratory, you run into Dr.Z, an old friend of your father. He displayed two mysterious bags and offered you one as a gift. \n The purple bag, adorned with intricate designs, hides its contents in a soft and mysterious exterior. \n The radiant yellow bag glows with a captivating allure, hinting at the enchanting treasures concealed within. \n Which one would you choose?",
+    "Purple bag",
+    "Yellow bag"
+  ],
+  "path1": [
+    "You came across a fork in the road. The sign on the left reads \"Pallet Town\" and the sign on the right reads \"Viridian Forest\". Which path would you like to take.",
+    "Viridian Forest | In a serene forest, sunlight filters through towering trees onto a soft carpet of fallen leaves, and the possibility of encountering Pokémon adds enchantment to the woodland stroll. You encounter another fork in the road, which path would you take?",
+    "Path with lots of tree",
+    "Path with lots of sunshine",
+    "Pallet Town | Navigating the bustling town, vibrant storefronts line the streets as cheerful citizens and Pokémon trainers pass by, creating a lively atmosphere filled with the anticipation of potential encounters and adventures. You walked past your parent's house, would you like to stop by?",
+    "Yes",
+    "No"
+  ],
+  "Pallet Town": [
+    "@RANDOM WALK CITY",
+    "Approach | You're certain that you know the person, and decided to approach. Indeed, after following them for a while you recognize him. Would you like to say hi?",
+    "Yes! Say hi! | Indeed, it is your friend, Steve. Steve greeted you and ask if you heard about the Pokemon Gym?",
+    "Of course!",
+    "No, tell me about it",
+    "Nooo, its too awkward | The person turned back and apparently it is your rival Roger. He challenged you to a battle.",
+    "Fight!",
+    "I'm not ready for that...",
+    "Ignore | It is probably some stranger. You walked past the hospital where your mother works. Would you like to visit the hospital?",
+    "Yes | A nurse welcomed you and asked if you would like them to do a check up on your pokemons",
+    "Yes, please",
+    "No, I'm good",
+    "No | You'd rather go shopping instead. You entered a Pokemon utilities shop. Would you like to buy potion?",
+    "Yes",
+    "No"
+  ],
+  "Viridian Forest": [
+    "@RANDOM WALK FOREST",
+    "Yes, chase | You are chasing pokemon, and find that it stop by a bush. Should you throw a rock to make it come out?",
+    "Throw rock",
+    "Observe",
+    "No, leave alone | You've walked for a while. Would you like to take a rest?",
+    "Yes",
+    "No"
+  ],
+  "fork again": [
+    "You came across the same fork in the road as before. What is your choice now?",
+    "Viridian Forest",
+    "Pallet Town"
+  ]
+}
