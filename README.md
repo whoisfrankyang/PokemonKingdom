@@ -1,6 +1,2 @@
-# Final_Project
-Team Members: 
-Jenny Chen (sc2628), 
-Xinyu Ge (xg265), 
-Frank Yang (by93), and 
-Fiona Zheng (fz246)
+# The Pokemon Kingdom
+This project simulates the Pokemon game. The interface shows the user what different attacks that the Pokemon could use to defeat their enemies , including the Pokemon’s attacks, element, and stats. Users will use their own keyboard to type different letters in corresponding to different attacks that they can use. As the user types, the statistics of both Pokemon will be shown and the enemies Pokemon with the AI/other player could simulate their next move. After each game the Pokemon of the user will receive a different amount of EXP to increase their statistics and their attacks.
